@@ -2,7 +2,7 @@
 
 /**
  * main - print _putchar
- * 
+ *
  * Return: alwaay 0
  */
 
